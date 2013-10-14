@@ -36,7 +36,7 @@
       <file leaf-file-name="secret_token.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="14" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.8292683">
+            <state line="27" column="81" selection-start="993" selection-end="993" vertical-scroll-proportion="0.79965156">
               <folding />
             </state>
           </provider>
@@ -54,6 +54,7 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/initializers/secret_token.rb" />
+        <option value="$PROJECT_DIR$/README.rdoc" />
       </list>
     </option>
   </component>
@@ -379,9 +380,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="50" selection-start="185" selection-end="185" vertical-scroll-proportion="0.14480409">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="14" selection-start="1008" selection-end="1008" vertical-scroll-proportion="0.8292683">
+        <state line="27" column="81" selection-start="993" selection-end="993" vertical-scroll-proportion="0.79965156">
           <folding />
         </state>
       </provider>
